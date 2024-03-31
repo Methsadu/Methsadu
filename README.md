@@ -8,7 +8,7 @@ Hello! I'm Lisath Methsadu, a passionate developer currently working at Eversoft
 - 📖 I'm expanding my skills with a focus on Laravel, a powerful PHP framework.
 - 💼 I'm proud to be a part of the team at Eversoft IT Solutions, where we create innovative solutions for clients.
 - 🎓 I'm also enhancing my knowledge at JIAT (Java Institute for Advanced Technology), further fueling my passion for technology.
-- ✉️ You can reach me at methsadu@eversoft.cf.
+- ✉️ You can reach me at lisathmethsadu@eversoft.lk.
 
 ## Technologies and Languages
 
