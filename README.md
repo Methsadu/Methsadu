@@ -32,7 +32,7 @@ Feel free to explore my repositories to discover more of my work!
 
 - [Facebook](https://web.facebook.com/people/Lisath-Methsandu/pfbid0PmENQgsTHL1EDbavv3nbKwgMY1VYcVGH4wrSQkkY7e2EDxobvp1KfVsqFSQkDLa5l/)
 - [Twitter](https://twitter.com/lisath_methsadu)
-- [Email](mailto:methsadu@eversoft.cf)
+- [Email](mailto:lisathmethsadu@eversoft.lk)
 
 Let's connect and collaborate! Whether you have questions, ideas, or just want to chat about technology, I'm here to engage and contribute.
 
